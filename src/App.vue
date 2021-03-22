@@ -37,11 +37,7 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  /* overflow: hidden; */
   height: 100vh;
-  /* display: flex;
-  align-items: center;
-  justify-content: center; */
 }
 
 .titulo{
